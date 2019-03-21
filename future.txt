@@ -1,7 +1,7 @@
 "Ez mar a jovo"  
-<<<<<<< HEAD
+
 "ezt is meg"  
 =======
 
 ami nagyon menő
->>>>>>> 39288c11fa635afb9a05c37f64cfde5f158d05e7
+
