@@ -1,4 +1,4 @@
 def myAgeFunction():
-	myAge = 28
+	myAge = 26
 	print("This is my age:", myAge)
 	
