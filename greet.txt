@@ -1,0 +1,2 @@
+ez egy method ami kiirja a nevemet :-)
+
