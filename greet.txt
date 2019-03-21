@@ -4,5 +4,9 @@ modositottam a parammmmmetert
 
 my language is python
 
+<<<<<<< HEAD
 modositas branchen belül2
 "Greetings!" 
+=======
+print("Greeting for the parameter")
+>>>>>>> fc24981c6f630a2e5fa6e07dc4de2ddff537130f
