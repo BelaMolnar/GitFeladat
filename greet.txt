@@ -1,3 +1,5 @@
 ez egy method ami kiirja a nevemet :-)
 
-modositottam a parametert
+modositottam a parammmmmetert
+
+my language is python
